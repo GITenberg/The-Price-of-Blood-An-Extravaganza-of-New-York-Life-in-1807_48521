@@ -1,0 +1,24 @@
+_repo: The-Price-of-Blood-An-Extravaganza-of-New-York-Life-in-1807_48521
+contributor:
+  illustrator: &id001
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2015-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Price of Blood
+
+  An Extravaganza of New York Life in 1807'
+url: http://www.gutenberg.org/ebooks/48521
